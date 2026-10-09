@@ -13,7 +13,7 @@
 
 We design, build, and deploy intelligent software systems that turn manual work into scalable, AI-powered operations.
 
-**[🌐 Website](https://www.airbil.co)** &nbsp;·&nbsp; **[📝 Blog](https://www.airbil.co/blog)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/airbilco)** &nbsp;·&nbsp; **[𝕏 Twitter](https://twitter.com/airbil_ai)** &nbsp;·&nbsp; **[📸 Instagram](https://instagram.com/airbil.ai)**
+**[🌐 Website](https://www.airbil.in)** &nbsp;·&nbsp; **[📝 Blog](https://www.airbil.in/blog)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/airbilco)** &nbsp;·&nbsp; **[𝕏 Twitter](https://twitter.com/airbil_ai)** &nbsp;·&nbsp; **[📸 Instagram](https://instagram.com/airbil.ai)**
 
 </div>
 
